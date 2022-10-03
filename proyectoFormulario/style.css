@@ -1,0 +1,48 @@
+.logo {
+    height: 200px;
+    width: 300px;
+}
+
+.carousel-item img {
+    width: 400px;
+    height: 350px;
+}
+/* no se que es esto*/
+.contenidoHeader {
+    display:block;
+    width: 300%;
+}
+.redesHeader {
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 8%;
+}
+.redesFooter {
+    text-align: center;
+}
+
+.nosotros{
+    text-align: center;
+}
+
+.card-body{
+    text-align: center;  
+}
+/* cambiar esto, no es nada claro*/
+.texto-form {
+    text-align: center;
+}
+
+.containerForm {
+    display: flex;
+    justify-content: center;
+}
+
+.formulario {
+    width: 400px;
+    margin-top: 10px;
+}
+.form-btn {
+    display: flex;
+    justify-content: center;
+}
